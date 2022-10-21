@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "name": "6vCPU 12GB RAM JupyterLab Runtime 22.1 Python 3.9",
+    "description": "",
+    "origin_country": "US",
+    "tags": [
+      "dsx"
+    ],
+    "asset_type": "hardware_specification",
+    "rov": {
+      "mode": 0
+    },
+    "asset_category": "USER",
+    "created_at": "2022-10-21T18:25:19Z",
+    "created": 1666376719589,
+    "asset_id": "hardware_specification.6vCPU12GBRAMJupyterLabRuntime221Python39",
+    "asset_attributes": [
+      "hardware_specification"
+    ]
+  },
+  "entity": {
+    "hardware_specification": {
+      "nodes": {
+        "cpu": {
+          "units": "6",
+          "model": ""
+        },
+        "mem": {
+          "size": "12Gi"
+        }
+      }
+    }
+  },
+  "attachments": []
+}
